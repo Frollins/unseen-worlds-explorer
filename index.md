@@ -1,12 +1,11 @@
 (Intro?)
 
-# Welcome to My Cryptozoology Journal
+## Welcome to My Cryptozoology Journal
 
-Hello! Welcome to a world of mystery and exploration.
+Hello! Welcome to this blog.
 
-(Put in navigation)
+# Menu
+[Home](index.md) | [Cryptids](cryptids.md) | [Evidence](evidence.md) | [Journal](journal.md)
 
-This is my journey into cryptozoology, the study of creatures that have not yet been accepted by science.
-
-Each page on this site offers a glimpse into the unknown. Are you ready to explore?
+(This is not meant to be taken seriously. This is purely for entertainment purposes.)
 
