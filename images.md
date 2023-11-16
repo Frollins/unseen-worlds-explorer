@@ -1,10 +1,7 @@
-##Images
+# Images
 
-#The Bitterbrook Beast
+## The Bitterbrook Beast
 
+## The Hollow-Eyed Hunter
 
-#The Hollow-Eyed Hunter
-
-
-#The Memento Emporium
-
+## The Memento Emporium
