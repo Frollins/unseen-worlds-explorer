@@ -1,14 +1,10 @@
+# CRYPTIDS BIG AND SMALL
 
-##CRYPTIDS BIG AND SMALL
+## The Bitterbrook Beast
+Details about the Bitterbrook Beast go here.
 
-#The Bitterbrook Beast
+## The Hollow-Eyed Hunter
+Information on the Hollow-Eyed Hunter goes here.
 
-(infooo)
-
-#The Hollow-Eyed Hunter
-
-(info)
-
-#The Memento Emporium
-
-(info)
+## The Memento Emporium
+Description of the Memento Emporium goes here.
