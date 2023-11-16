@@ -1,4 +1,7 @@
-theme: "jekyll-theme-midnight"
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 title: "Bitterbrook Cryptozoological Society"
 description: "See something you couldn't explain in our mountain woods? Afraid no one will believe you? Contact us! Bitterbrook Cryptozoological Society (BCS) is an amateur cryptozoology/urban legend group collecting and archiving evidence of our strange little town!"
 
