@@ -1,4 +1,14 @@
 
-#CRYPTIDS BIG AND SMALL
+##CRYPTIDS BIG AND SMALL
 
-(put in cryptids)
+#The Bitterbrook Beast
+
+(infooo)
+
+#The Hollow-Eyed Hunter
+
+(info)
+
+#The Memento Emporium
+
+(info)
