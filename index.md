@@ -8,7 +8,7 @@ or perhaps you too have heard of the elusive Memento Emporium?
 You are not alone! Follow me and lets search for answers together!
 
 # Menu
-[Home](index.md) | [Cryptids](cryptids.md) | [Images](images.md) | [Journal](journal.md)
+[Home](index.md) | [Cryptids](cryptids.md) | [Images](images.md) | [Local Sightings](sightings.md)
 
 copyright the Bitterbrook Cryptozoological Society (c) 20xx
 
