@@ -71,4 +71,25 @@ For what felt like an eternity, the Hunter and I remained in a standoff, and the
 
 (REDACTED), a photographer.
 
+*As a bird photographer, I had journeyed to many places, capturing the fleeting beauty of the many birds of the world. My travels brought me to Bitterbrook, a quick stop on my way back to highway and head east. I was there for the birds, but little did I know that a tree, of all things, would capture my intrigue.*
+
+*I first heard of Gunther's Oak at the local diner called Philomena's, where tales of Henry Gunther's legendary bad luck were shared with a mix of sympathy and fascination.* 
+
+*Story goes he was tricked by a snake oil salesman (who in some versions is a demon or the Devil) into purchasing a rather expensive bottle of unknown liquid which would 'cleanse Henry of his bad luck'. All he'd have to do is bury a sapling and wash himself over the tree, washing his bad luck (or sins) onto the tree.*
+
+*Gunther would instead to use the town tree that had been buried a month before at the centre of town, thus cursing both himself and the tree. No one ever found the salesman or had any memory of him. They said the oak itself bore the mark of his misfortune, twisting and contorting in an attempt to escape the aura of ill-fate that surrounded it.*
+
+*Intrigued, I decided to take a detour.*
+
+*The oak stood at the centre of town, a gnarled sentinel. Its limbs were like the arms of a tormented spirit, reaching out in every direction, as if in a silent scream. Or culed around like corkscrews. I set up my camera, aiming to capture this bizarre spectacle. But as I looked through the lens, something inexplicable happened.*
+
+*The tree, which I had just seen with my own eyes as a twisted marvel, appeared markedly different through my camera. It was as though it sensed my intention and changed its form, becoming just another ordinary tree. Puzzled, I lowered my camera, and there it was again – the twisting, contorted oak.*
+
+*I tried repeatedly, moving to different angles, adjusting my lens, even changing cameras. Each time, the result was the same. Through the lens, the oak appeared normal; to the naked eye, it was a bizarre, almost supernatural entity.*
+
+*I still took a photo of Gunther's Oak - memorializing a strange piece of small town Canadiana. I'll even [pass it on](images.md).*
+-LEE EVANS, PHOTOGRAPHER
+
+
+
 
