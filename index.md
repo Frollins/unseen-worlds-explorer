@@ -7,6 +7,7 @@ Greetings, adventurers and seekers of the unknown! Welcome to The Unseen Worlds 
 In Bitterbrook, every whispered tale and every unexplained occurrence is a thread in a larger, more intricate tapestry of the unknown. What is truly out there? Our blog explores these mysteries through various sections:
 
 [Cryptids and Legends](cryptids-legends.md): Discover the eerie tales and cryptic beings that lurk in the corners of Bitterbrook. From the infamous [Hollow-Eyed Hunter](h-e-h.md) to the haunting [Marconi](marconi.md), the Sentient Radio, each story is a journey into the supernatural. Here, you'll find images capturing the essence of Bitterbrook's cryptids, like the mesmerizing [Gunther's Oak](gunther.md) and the elusive [Memento Emporium](memento.md).
+
 [Local Sightings and Encounters](local-sightings.md): Read firsthand accounts of encounters with the unknown. These are stories from locals and visitors who have experienced Bitterbrook's mysteries up close.
 
 ## Join the Hunt
