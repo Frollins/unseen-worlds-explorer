@@ -1,4 +1,5 @@
-##Sightings and Stories
+##Local Sightings
+
 (All sources are anonymous and names have been redacted. Happy now, (REDACTED)?!)
 
 #Hollow-Eyed Hunter
