@@ -1,11 +1,33 @@
 ##Sightings and Stories
 (All sources are anonymous and names have been redacted. Happy now, (REDACTED)?!)
+These have all been transcribed by the authour of this blog from audio recordings of interviews:
 
+USE = Unseen Worlds Explorer (yours truly)
 
 #Bitterbrook Beast
 
 
 #Hollow-Eyed Hunter
+
+USE: (REDACTED), a local forest enjoyer.
+
+AIt was umm...October? October. October evening when I decided to take the old forest trail back from my buddy's cabin. The tourists long gone, we finally had the town back to ourselves and I wanted to enjoy the night sky. I know you're not supposed to go into the woods alone at night. Not because of the Hunter, I didn't actually believe in that. More "not getting mauled by a cougar" or "not getting lost and condemned to die a horrible death by starvation". But now (pause) 
+
+I'd always walked these woods, unbothered by the tales of the Hollow-Eyed Hunter. To me, it was just a story to scare kids from wandering too far into the forest. Besides, this trail was one I could walk blindfolded! It was a winding trail I'd trekked countless times that goes around the entire town and it would take me right by my apartment. But tonight, something felt different. Everything was silent.
+
+Not, like, how its usually silent at night. This was, like, REALLY silent. I couldn't even hear my own footsteps. It was just... quiet.
+
+And then it felt... unsettling? Like someone was watching me. That weird uncomfortable tingling along your spine and a heavy drum heartbeat and now I'm speedwalking.
+That's when I felt it—a sensation so visceral, it was as if the temperature had dropped several degrees. The feeling of being watched crept over me, sending shivers down my spine. I stopped, scanning the barely lit woods - I had my flashlight. And there it was—at the very edge of where the light touched in the trees, I could see some sort of formless figure with two hollow voids where eyes should have been fixated on me.
+
+I knew the stories. Two empty eyes in a blankAbout the signs the Hollow Eyed Hunter was nearby, the eerie quiet, the feeling of something watching you from the edge of the woods and no matter where you look - you never see anything. But *you know* there's something there.
+
+(Expletive) that.
+
+I wanted to run, but my legs were rooted in place. The tales I'd dismissed spun through my head—how the Hunter stalked its prey, relentless and silent. I could feel its gaze piercing through me, reading my soul, my fears. The world narrowed to those two empty, endless sockets that held me captive.
+For what felt like an eternity, the Hunter and I remained in a standoff, and then, as though it had never been there, the figure dissipated into the mist, leaving only the echo of my pounding heart. I wasted no time, nearly stumbling over roots as I all but ran back to the safety of the town's lantern-lit streets.
+That night, and many nights since, I've pondered the encounter. Was it a warning? A test? Or perhaps the Hunter sought something from me that I still don't understand. The experience left me with an unshakable awareness: the legends of Bitterbrook are more than just stories, and respect for the unseen is the wisest stance one can take when walking through the Hollow-Eyed Hunter's domain.
+
 
 
 #The Memento Emporium
