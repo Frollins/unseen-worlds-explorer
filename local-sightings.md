@@ -1,6 +1,6 @@
 # Local Sightings
 
-(All sources are anonymous and names have been redacted. Happy now, (REDACTED)?!)
+(All sources are anonymous and names have been redacted, unless otherwise stated. Happy now, (REDACTED)?!)
 
 ## Hollow-Eyed Hunter
 
@@ -69,7 +69,7 @@ For what felt like an eternity, the Hunter and I remained in a standoff, and the
 
 ## Gunther's Oak
 
-(REDACTED), a photographer.
+*Lee Evans, a photographer.*
 
 *As a bird photographer, I had journeyed to many places, capturing the fleeting beauty of the many birds of the world. My travels brought me to Bitterbrook, a quick stop on my way back to highway and head east. I was there for the birds, but little did I know that a tree, of all things, would capture my intrigue.*
 
