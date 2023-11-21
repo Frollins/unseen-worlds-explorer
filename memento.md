@@ -1,6 +1,6 @@
 # The Memento Emporium
 
-##A Store Beyond Time
+## A Store Beyond Time
 The Memento Emporium is unlike any shop you've known. It materializes seemingly at whim, its facade an echo from a bygone era. The windows display a curious array of items, each with a story etched into its being. The shop is a bridge between the past and present, a place where lost memories linger.
 
 ## The Enigmatic Shopkeeper
