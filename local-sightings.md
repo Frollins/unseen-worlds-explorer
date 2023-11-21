@@ -62,5 +62,11 @@ I bolted towards where I came in not even caring if that creepy old (EXPLETIVE) 
 
 I found the door.
 
-Still dont know what my old bike wouldve cost me, but my gut told me it was nothing good."
+Still dont know what my old bike would've cost me, but my gut told me it was nothing good."
 -ANONYMOUS CASHIER
+
+#Gunther's Oak
+
+(REDACTED), a photographer.
+
+
