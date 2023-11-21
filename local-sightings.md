@@ -1,8 +1,8 @@
-##Local Sightings
+#Local Sightings
 
 (All sources are anonymous and names have been redacted. Happy now, (REDACTED)?!)
 
-#Hollow-Eyed Hunter
+##Hollow-Eyed Hunter
 
 (REDACTED), a local forest enjoyer.
 
@@ -24,7 +24,7 @@
 For what felt like an eternity, the Hunter and I remained in a standoff, and then, as though it had never been there, the figure dissipated into the mist, leaving only the echo of my pounding heart. I wasted no time, nearly stumbling over roots as I all but ran back to the safety of the town's lantern-lit streets.
 -ANONYMOUS HIKER*
 
-#The Memento Emporium
+###The Memento Emporium
 
 *(REDACTED), a cashier at the NoFrills herself walking into the Emporium after passing through the doors to the back area located at the back of the building. (I must mention that this is all "alleged" but we know the truth, fellow cryptid chasers!)*
 
@@ -67,7 +67,7 @@ For what felt like an eternity, the Hunter and I remained in a standoff, and the
 *Still dont know what my old bike would've cost me, but my gut told me it was nothing good."
 -ANONYMOUS CASHIER*
 
-#Gunther's Oak
+####Gunther's Oak
 
 (REDACTED), a photographer.
 
