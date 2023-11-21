@@ -12,6 +12,10 @@ Stay safe out there, friends.
 Here's one to keep you up at night,
 The Memento Emporium is a mausoleum of memories. Its walls are lined with mementos of lives long gone, each with its own silent tale to tell. The shopkeeper, a dark and enigmatic presence, roams the store, seeming to know the secrets of every item within. It's a place where the past refuses to stay buried, and the present is a mere reflection of the echoes of lives long since lived. For those brave enough to enter, be warned - you may never be the same again.
 
-Gunther's Oak
+## Gunther's Oak
+
+Here's one for all you, history buffs! (All 5 of you that read this blog)
+
+
 
 
