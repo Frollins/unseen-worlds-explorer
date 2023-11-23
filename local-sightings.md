@@ -48,7 +48,7 @@ For what felt like an eternity, the Hunter and I remained in a standoff, and the
 
 *His eyes.*
 
-*They were pearl-like, or it looked like it in the terrible lighting - hollow and empty, like that [Hunter](cryptids.md). Pale and milky and staring right through me.*
+*They were pearl-like, or it looked like it in the terrible lighting - hollow and empty, like that [Hunter](h-e-h.md). Pale and milky and staring right through me.*
 
 *He grins.*
 
