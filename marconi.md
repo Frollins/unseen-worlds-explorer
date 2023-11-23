@@ -14,3 +14,5 @@ But the radio's strange abilities come with a price. It has been said that liste
 
 ## Encounters with Marconi
 Those who have interacted with Marconi describe the experience as both fascinating and unsettling. The radio seems to choose its words carefully, often leaving the listener with more questions than answers. Its messages can be cryptic, sometimes prophetic, and always intriguing.
+
+![Marconi](/assets/css/marconi.jpeg)
