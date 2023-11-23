@@ -13,3 +13,7 @@ Interestingly, Gunther's Oak presents a peculiar anomaly: when viewed through th
 Beyond its bizarre appearance, the oak is shrouded in tales of the supernatural. Some believe that the spirit of Henry Gunther lingers near the tree, eternally bound to the object of his curse. Touching the oak is thought to bring either good luck or continued misfortune, a gamble that many are hesitant to take.
 
 ## Local Flavour: One of the most famous stories surrounding Gunther's Oak involves a young woman named Sarah, who was said to be in love with Henry before his untimely demise. Legend has it that after his passing, Sarah would come to the oak to mourn her lost love, and as she did, the tree's branches would embrace her in a loving caress. But as time passed, Sarah grew bitter and resentful, believing that the tree was taunting her with its affection, reminding her of what she had lost. It's said that Sarah's spirit now roams the forest, her soul forever entwined with the oak's branches. Whether truth or fiction, the story serves as a cautionary tale of the dangers of clinging to the past.
+
+![Artist Rendition of Gunter's Oak ( AI Generated)](/assets/css/Artist-Gunther.png)
+
+![Gunthers Oak in Autumn (AI generated)](/assets/css/GunthersOak.jpeg)
