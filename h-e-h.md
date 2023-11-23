@@ -21,6 +21,11 @@ Rumors swirl that the Hunter can be summoned for vengeance, but such acts come w
 ## A Cautionary Tale
 For those who walk the forest paths of Bitterbrook, the Hollow-Eyed Hunter is a reminder of the unseen dangers that lurk in the shadows. Its power is formidable, its nature unknown, and its existence a puzzle that continues to mystify.
 
+![H-E-H](/images/h-e-h.jpeg)
+
+![Halloween Costume](/images/h-e-h-2.jpeg)
+
+
 
 
 
