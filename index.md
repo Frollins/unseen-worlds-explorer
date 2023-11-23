@@ -2,6 +2,8 @@
 
 Greetings, adventurers and seekers of the unknown! Welcome to The Unseen Worlds Explorer, the premier blog dedicated to uncovering the hidden mysteries and cryptic legends of our dear enigmatic town, Bitterbrook. Here, we delve into the shadows and unravel the truth behind all those childhood stories.
 
+![Example Image](/assets/css/wispy-moon.png)
+
 ## What We Explore
 
 In Bitterbrook, every whispered tale and every unexplained occurrence is a thread in a larger, more intricate tapestry of the unknown. What is truly out there? Our blog explores these mysteries through various sections:
