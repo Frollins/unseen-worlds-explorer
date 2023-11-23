@@ -15,4 +15,11 @@ For those who enter the Memento Emporium, the experience is often profound. The 
 ## The Mystery Endures
 The true nature of the Memento Emporium remains a topic of speculation among those of us in the Mystery community! Is it a benign custodian of memories, or does it play a more active role in the strange occurrences of Bitterbrook? The shop, like the town, keeps its secrets closely guarded.
 
+![Memento Emporium](assets/css/Memento-2.png)
+AI Rendition of the Memento Emporium
+
+
+![Memento Emporium](/images/example.jpg)
+AI Rendition of the Memento Emporium
+
 
