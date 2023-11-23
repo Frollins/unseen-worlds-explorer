@@ -1,10 +1,5 @@
 # Gunther's Oak
 
-<audio autoplay loop>
-  <source src="assets/css/wind.wav" type="audio/wav">
-</audio>
-
-
 ## A Tale of Curses and Misfortune
 Named after the ill-fated Henry Gunther, the oak's twisted form is said to be the result of a curse. The story goes that Henry, seeking to rid himself of bad luck, unwittingly transferred his misfortune to the tree, distorting it into its current eerie shape.
 
