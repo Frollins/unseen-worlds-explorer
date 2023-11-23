@@ -17,6 +17,6 @@ Your experiences and insights are invaluable. If you've encountered something un
 Stay tuned to The Unseen Worlds Explorer as we continue to document the mysteries and legends of Bitterbrook. Remember, in our town, every shadow hides a story, and every whisper is a clue waiting to be followed.
 
 # Menu
-[Home](index.md) | [Cryptids and Legends](cryptids-legends.md) | [Images](images.md) | [Local Sightings](local-sightings.md)
+[Home](index.md) | [Cryptids and Legends](cryptids-legends.md) | [Local Sightings](local-sightings.md)
 
-copyright the Bitterbrook Cryptozoological Society (c) 20xx
+copyright the Bitterbrook Cryptozoological Society 20xx
